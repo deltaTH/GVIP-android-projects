@@ -16,6 +16,7 @@ _TRAINING CURRICULUM_
 
 # Final Project : Grocery App
 ![Screenshot_2023-10-05-02-19-35-077_com example groceryapplication](https://github.com/deltaTH/GVIP-android-projects/assets/64921353/cecfa4f5-41ed-43a9-b2c7-b61af7477a16 | width=378px)
+<img src="https://github.com/deltaTH/GVIP-android-projects/assets/64921353/cecfa4f5-41ed-43a9-b2c7-b61af7477a16" width="378px" height="840px">
 
 A simple Grocery App to keep track of your spendings on Grocery items.
 
