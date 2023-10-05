@@ -3,7 +3,7 @@
 
 This git repository contains all the projects that I have made during my internship at the Google Virtual Internship Program. 
 ## [Program Link](https://smartinternz.com/google-virtual-internship-program-2022)
-
+  
 
 _TRAINING CURRICULUM_
 - Wireframe design - using Figma
